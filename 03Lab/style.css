@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: royalblue;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+#output {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  min-height: 40px;
+}
